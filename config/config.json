@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "durrell",
+    "password": "durrell",
+    "database": "todolists",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "durrell",
+    "password": "durrell",
+    "database": "todolists",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "durrell",
+    "password": "durrell",
+    "database": "todolists",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
